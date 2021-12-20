@@ -3,21 +3,21 @@
 </h1>
 </div>
 <p align="center">
-  Made with ðŸŒŸ by <a href="https://www.facebook.com/profile.php?id=100075602274184">Andika</a>
+  Made with 🌟 by <a href="https://www.facebook.com/profile.php?id=100075602274184">Andika</a>
 </p>
 <p align="center">
  
-â˜… Method Login â˜…
+★ Method Login ★
 >
 1. Token
 >
-â˜… Method Crack â˜…
+★ Method Crack ★
 >
 1. B-Api +  (fast)
 2. MBasic + (slow)
 3. Mobile + (super slow)
 >
-â˜… Menu Crack â˜…
+★ Menu Crack ★
 >
 1. Crack ID Dari Teman/Public
 2. Crack ID Dari Folowers
@@ -25,14 +25,14 @@
 4. Crack ID Postingan
 5. Crack Random ID FB new
 >
-â˜… Menu kedua â˜…
+★ Menu kedua ★
 1. Check Opsi
 2. Check hasil
 3. Info tools/Script
 4. User agent
 5. Lapor bug
 >
-**â˜… Install Script/Tools Bahan â˜…**
+**★ Install Script/Tools Bahan ★**
 >
 ```
 pkg update && pkg upgrade
@@ -45,7 +45,7 @@ pip2 install futures
 git clone https://github.com/Sanz-Tzy/Sanz
 ```
 >
-â˜… **Menjalankan Script/Tools** â˜…
+★ **Menjalankan Script/Tools** ★
 >
 ```
 cd Sanz
@@ -54,7 +54,7 @@ python2 Sanz.py
 
 ```
 >
-â˜… **Token FB** â˜…
+★ **Token FB** ★
 >
 ```
 EAAAAUaZA8jlABAK9e25Hv5tGnZCgXZATYu4owJ8SL0XLr6ZA48SnzFnzY4EdSLCAQReejUo0ZCCaew70d9XvgpYjZAKSduYxFyRJXzeRArjBhhzZAhbmlnG9P2RZCwT49l3ZA45ZCcUuZBM6IztPgb35NfZBPBakmRUmaMbNoP820r3RKJ8UwdknGsRCwDjkGu5vfj4ZD
